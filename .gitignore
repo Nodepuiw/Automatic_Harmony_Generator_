@@ -277,3 +277,5 @@ __pycache__/
 # my setting
 *.jpg
 *.png
+!OpenCVtest/data/score_1.png
+!OpenCVtest/data/score_2.png
